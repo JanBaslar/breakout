@@ -5,4 +5,4 @@ Old Atari game recreated in C# back in 2020. It runs in a terminal. The size of 
 ![Alt welcome-screen](WelcomeScreen.png)
 
 ### Game
-![Alt game](WelcomeScreen.png)
+![Alt game](Game.png)
