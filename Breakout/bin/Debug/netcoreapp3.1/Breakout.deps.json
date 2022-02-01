@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Breakout/1.0.0": {
+        "dependencies": {
+          "BreakoutLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Breakout.dll": {}
+        }
+      },
+      "BreakoutLibrary/1.0.0": {
+        "runtime": {
+          "BreakoutLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Breakout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BreakoutLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

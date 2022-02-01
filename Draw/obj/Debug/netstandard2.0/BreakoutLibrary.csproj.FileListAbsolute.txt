@@ -1,0 +1,18 @@
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\bin\Debug\netstandard2.0\BreakoutLibrary.deps.json
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\bin\Debug\netstandard2.0\BreakoutLibrary.dll
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\bin\Debug\netstandard2.0\BreakoutLibrary.pdb
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.csprojAssemblyReference.cache
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.AssemblyInfoInputs.cache
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.AssemblyInfo.cs
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.csproj.CoreCompileInputs.cache
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.dll
+D:\FAI UTB\1.semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.pdb
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\bin\Debug\netstandard2.0\BreakoutLibrary.deps.json
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\bin\Debug\netstandard2.0\BreakoutLibrary.dll
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\bin\Debug\netstandard2.0\BreakoutLibrary.pdb
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.csprojAssemblyReference.cache
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.AssemblyInfoInputs.cache
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.AssemblyInfo.cs
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.csproj.CoreCompileInputs.cache
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.dll
+D:\FAIUTB\1.Semestr\AUPKS-AP1PA - Programování a algoritmizace\Draw\obj\Debug\netstandard2.0\BreakoutLibrary.pdb

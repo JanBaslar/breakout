@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyNqiza3bSoM+QSKg/QvdjLKxNqVEu4Yq5YY/r0MKPgQaegG9mCjnEQ3mGgP5fz2+b7jpq/X1dBEzgCNBEzu1A==",
+  "success": true,
+  "projectFilePath": "D:\\FAIUTB\\1.Semestr\\AUPKS-AP1PA - Programování a algoritmizace\\Draw\\BreakoutLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JanBaslar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JanBaslar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
